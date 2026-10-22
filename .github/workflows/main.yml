@@ -29,4 +29,4 @@ jobs:
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node y.js https://sx2lador.online 300 14 50 --fakebot
+        run: node y.js https://link4m.com 300 14 50 --fakebot
